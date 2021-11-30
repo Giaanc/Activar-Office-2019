@@ -2,7 +2,7 @@
 
 #abrir cmd con privilegios de administrador
 
-# office 32 / 64 bits
+# office 64 / 32 bits
 cd /d %ProgramFiles%\Microsoft Office\Office16
 
 cd /d %ProgramFiles(x86)%\Microsoft Office\Office16
